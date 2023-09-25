@@ -1,2 +1,1 @@
-# ibs-iac
-iac for ibs site
+# server cofigs
